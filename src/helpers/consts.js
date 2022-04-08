@@ -1,6 +1,6 @@
-export const PRODUCTS_API = "http://localhost:8000/products";
+export const PRODUCTS_API = "https://deploy-erkin-first.herokuapp.com/products";
 
-export const BRANDS_API = "http://localhost:8000/brands";
+export const BRANDS_API = "http://https://deploy-erkin-first.herokuapp.com/brands:8000/brands";
 
 export const ADMIN_EMAIL = "begimay@gmail.com";
 // const brands = [
